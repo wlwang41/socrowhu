@@ -558,3 +558,13 @@ a.black {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.control-tips {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    margin-left: -200px;
+    width: 400px;
+    font-size: 0.5em;
+    color: grey;
+}
